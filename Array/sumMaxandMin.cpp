@@ -22,4 +22,4 @@ int sumOfMaxMin(int arr[], int n){
     }
     sum=mini+maxi;
     return sum;
-}
+}  
