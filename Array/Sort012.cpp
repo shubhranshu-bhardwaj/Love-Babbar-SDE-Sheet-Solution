@@ -84,4 +84,4 @@ mid=arr[4] that is 1
 low=arr[3] that is 1
 high=arr[n-4] that is 1
 here our mid and high are at the same position so we will come out the loop and print
-0 0 0 1 1 2 2 that is sorted*/
+0 0 0 1 1 2 2 that is sorted*/ 
